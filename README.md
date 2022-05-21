@@ -18,14 +18,10 @@ High Performance data conversion REST API from one format to another most freque
 * **Pay As You Go Pricing**
 
 ## API Benefits
-
-Example Use Cases -
-* **Instant Data Conversiony**
-
+**Instant Data Conversion** - 
 High Performance & most accurate data conversion using REST API. You can convert data instantly without having to setup or manage any servers or data warehouses.
 
-* **Data Formats**
-
+**Data Formats** -
 Supports most commonly used data formats JSON/XML/CSV, required for everyday data processing in the most of the software systems.
 
 
